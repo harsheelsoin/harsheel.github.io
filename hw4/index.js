@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'They could have found a cooler place, but they would not deny themselves such a romantic feature as the roasting campfire',
+      'The less there is to justify a traditional custom, the harder it is to get rid of it.',
   'example2':
-      'Come, Kitty, I want you up stairs',
+      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.',
   'example3':
-      '"The colour hurts my eyes," she said'      
+      'There is nothing in the world so irresistibly contagious as laughter and good humor.'      
 };
 
 function status(statusText) {
