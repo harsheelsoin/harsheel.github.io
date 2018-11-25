@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'It is a truth universally acknowledged, that a single man in possession',
+      'They could have found a cooler place, but they would not deny themselves such a romantic feature as the roasting campfire',
   'example2':
-      'MARLEY was dead: to begin with. There is no doubt',
+      'Come, Kitty, I want you up stairs',
   'example3':
-      'Call me Ishmael. Some years ago—never mind how long precisely—having'      
+      '"The colour hurts my eyes," she said'      
 };
 
 function status(statusText) {
