@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'The less there is to justify a traditional custom, the harder it is to get rid of it.',
   'example2':
-      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.',
+      'You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way',
   'example3':
-      'There is nothing in the world so irresistibly contagious as laughter and good humor.'      
+      'Oh! but he was a tight-fisted hand at the grindstone, Scrooge! A squeezing, wrenching, grasping, scraping, clutching, covetous old sinner!'      
 };
 
 function status(statusText) {
