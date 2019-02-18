@@ -1,17 +1,21 @@
-# Skinny Bones Jekyll Starter
+## Harsheel Soin's Website
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+<center> 
+![screenshot of Skinny Bones](https://d1qb2nb5cznatu.cloudfront.net/users/2014738-large?1523152697)
+</center>
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+I’m a machine learning enthusiast skilled in Python, R and SQL. I’ve worked with libraries including TensorFlow, Keras, Scikit-Learn, XGBoost, NLTK and Gensim. 
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+I spent the past 8 months working at [Audible](https://www.audible.com/) as a Data Science Research Assistant on projects including predicting content quality metrics and studying the interaction between audiobook content and genre. Additionally, I worked with the Quantitative Investment Strategies team at [Goldman Sachs](https://www.goldmansachs.com/) as part of my data science capstone project, where I assessed pharmaceutical R&D similarity through FDA clinical trial metadata. 
 
----
+As a student at Columbia, I’ve taken courses such as [Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s18/) (with Andreas Müller, a Scikit-Learn core contributor), Applied Deep Learning, Algorithms and Exploratory Data Analysis (using R & D3.js). 
 
-## Notable Features
+I enjoy the experimental process of model development, evaluation, optimization and deployment, and have experience writing production-level code.
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+
+## Profile URLs
+
+* [LinkedIn](https://www.linkedin.com/in/harsheelsoin/).
+* [Github](https://github.com/harsheelsoin)
+* [Facebook](https://www.facebook.com/harsheel.soin)
+* [Twitter](https://twitter.com/harsheelsoin)
