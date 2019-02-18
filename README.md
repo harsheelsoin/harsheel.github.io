@@ -1,8 +1,6 @@
 ## Harsheel Soin's Website
 
-<center> 
 ![screenshot of Skinny Bones](https://d1qb2nb5cznatu.cloudfront.net/users/2014738-large?1523152697)
-</center>
 
 I’m a machine learning enthusiast skilled in Python, R and SQL. I’ve worked with libraries including TensorFlow, Keras, Scikit-Learn, XGBoost, NLTK and Gensim. 
 
