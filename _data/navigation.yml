@@ -1,6 +1,21 @@
 # Site navigation links
 
+- title: Education
+  url: /education/
+  excerpt: "Degrees and Academic Certifications"
+  image: academic_degree.png
+
 - title: Experience
   url: /experience/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image:
+  excerpt: "Data Science Corporate Internships and Capstone Projects"
+  image: work_experience.png
+
+- title: Data Science Projects
+  url: /data_science_projects/
+  excerpt: "Academic Data Science Projects"
+  image: academic_project.png
+
+- title: Achievements
+  url: /achievements/
+  excerpt: "Academic Data Science Projects"
+  image: academic_project.png
