@@ -21,7 +21,7 @@ I spent the past 8 months working at [Audible](https://www.audible.com/) as a Da
 
 As a student at Columbia, I’ve taken courses such as [Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s18/) (with Andreas Müller, a Scikit-Learn core contributor), Applied Deep Learning, Algorithms and Exploratory Data Analysis (using R & D3.js). 
 
-I enjoy the experimental process of model development, evaluation, optimization and deployment, and have experience writing production-level code.
+I enjoy the experimental process of model development, evaluation, optimization and deployment, and have experience writing production-level code. My latest resume can be found [here](/about_me/resume.pdf). 
 
 [LinkedIn](https://www.linkedin.com/in/harsheelsoin/) &nbsp;&nbsp;[Github](https://github.com/harsheelsoin) &nbsp;&nbsp;[Twitter](https://twitter.com/harsheelsoin) &nbsp;&nbsp;[Facebook](https://www.facebook.com/harsheel.soin)
 

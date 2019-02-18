@@ -13,6 +13,10 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/about_me/resume.pdf</loc>
+<lastmod>2019-01-17T16:09:06-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/hw4/</loc>
 <lastmod>2018-12-29T23:10:48-05:00</lastmod>
 </url>
