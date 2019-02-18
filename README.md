@@ -1,4 +1,4 @@
-## Harsheel Soin's Website
+# Harsheel Soin's Website
 
 ![screenshot of Skinny Bones](https://d1qb2nb5cznatu.cloudfront.net/users/2014738-large?1523152697)
 
@@ -10,10 +10,28 @@ As a student at Columbia, I’ve taken courses such as [Applied Machine Learning
 
 I enjoy the experimental process of model development, evaluation, optimization and deployment, and have experience writing production-level code.
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-## Profile URLs
+<!-- display the social media buttons in your README -->
 
-* [LinkedIn](https://www.linkedin.com/in/harsheelsoin/).
-* [Github](https://github.com/harsheelsoin)
-* [Facebook](https://www.facebook.com/harsheel.soin)
-* [Twitter](https://twitter.com/harsheelsoin)
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/harsheelsoin
+[2]: https://www.facebook.com/harsheel.soin
+[3]: https://github.com/harsheelsoin
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
